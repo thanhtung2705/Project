@@ -1,0 +1,38 @@
+
+.container{
+	max-width: 181px;
+	height:178px;
+	padding: 35px;
+	background-color: pink;
+	position: relative;
+}
+.div1{
+	
+	background-color: red;
+}
+.div2{
+	top: 88px;
+	right: 70px;
+	bottom: 70px;
+	left:89px;
+	background-color: green;
+}
+.div3{
+	top: 142px;
+	right: 100px;
+	bottom: 100px;
+	left:143px;
+	
+	background-color: blue;
+}
+.box{
+	width: 90px;
+	height: 90px;
+	position: absolute;
+}
+.texts{
+	text-align: center;
+	padding: 16px;
+	color:white;
+	text-transform: capitalize;
+}
